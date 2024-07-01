@@ -1,0 +1,6 @@
+.slick-dots ul li:nth-child(1) div{
+    background: url(/src/assets/BestSeller02.jpg) no-repeat center /cover;
+}
+.slick-dots ul li:nth-child(2) div{
+    background: url(/src/assets/BestSeller04.jpg) no-repeat center /cover;
+}
